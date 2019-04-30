@@ -1,4 +1,4 @@
-#gitlfs使用实践,001.pbb size:154MB 
+#gitlfs使用实践,001.pbb size:152.4MB 
 
 ```
 Uploading LFS objects: 100% (1/1), 152 MB | 1.3 MB/s, done
